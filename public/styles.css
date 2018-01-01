@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+body {
+  background-color: #cecece;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.wrapper {
+  background-color: #fff;
+  padding: 1%;
+  margin: 1%;
+}
+
+#message-board {
+  background-color: #ccc;
+  max-height: 250px;
+  min-height: 250px;
+  overflow: auto;
+}
+
+.wrapper input, button {
+  display: block;
+  margin: 1%;
+  width: 98%;
+  padding: 1%;
+  border: 1px solid #000;
+}
+
+.wrapper label {
+  font-weight: bold;
+  color: #7a00ffeb;
+}
+
+.wrapper button {
+  background-color: #7a00ffb8;
+  color: #fff;
+}
