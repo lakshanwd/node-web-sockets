@@ -1,0 +1,26 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "sample implementation of web sockets wih node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supunz/node-web-sockets.git"
+  },
+  "keywords": [
+    "web-sockets",
+    "node"
+  ],
+  "author": "Supun Dissanayake",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/supunz/node-web-sockets/issues"
+  },
+  "homepage": "https://github.com/supunz/node-web-sockets#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
